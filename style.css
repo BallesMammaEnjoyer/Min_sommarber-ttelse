@@ -1,0 +1,16 @@
+    
+
+
+.container {
+    width: min(80ch, 100vw, 40rem);
+    margin-inline: auto;
+}
+
+p{
+    font-size: large;
+}
+
+img{
+    
+
+}
